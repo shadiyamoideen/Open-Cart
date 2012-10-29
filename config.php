@@ -1,4 +1,5 @@
 <?php
+//this is the configuration file for open cart.
 // HTTP
 define('HTTP_SERVER', 'http://localhost:8888/open_cart/');
 define('HTTP_IMAGE', 'http://localhost:8888/open_cart/image/');
